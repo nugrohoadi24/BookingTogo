@@ -2,14 +2,14 @@
     <div>
         <section class="movie-list">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-3"></div>
+                <div class="row justify-content-center">
+                    <div class="col-md-3 blank-show"></div>
                     <div class="col-md-9">
                         <h3 class="text-heading text-center text-white">Now Playing Movie</h3>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-md-3">
+                <div class="row justify-content-center">
+                    <div class="col-md-3 blank-show">
                     </div>
                     <div class="col-md-9">
                         <div class="row my-3">

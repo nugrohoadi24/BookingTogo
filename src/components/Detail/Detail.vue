@@ -2,8 +2,8 @@
     <div>
         <section class="movie-list">
             <div class="container">
-                <div class="row">
-                    <div class="col-md-3"></div>
+                <div class="row justify-content-center">
+                    <div class="col-md-3 blank-show"></div>
                     <div class="col-md-9">
                         <h3 class="text-title text-heading text-white">{{ movie.Title }}</h3>
                         <div class="row mt-4">

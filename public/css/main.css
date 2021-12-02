@@ -193,6 +193,15 @@
 
 /* Small Device */
 
+@media only screen and (max-width: 992px) {
+    .hamburger-menu {
+        flex: 1 1 0%;
+    }
+    .blank-show {
+        display: none !important;
+    }
+}
+
 @media only screen and (max-width: 767px) {
     #mainNav .navbar-toggler {
         width: 32px;

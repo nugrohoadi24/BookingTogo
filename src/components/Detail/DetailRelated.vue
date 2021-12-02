@@ -2,8 +2,8 @@
   <div>
       <section class="movie-list">
             <div class="container">
-                <div class="row my-5">
-                    <div class="col-md-3"></div>
+                <div class="row my-5 justify-content-center">
+                    <div class="col-md-3 blank-show"></div>
                     <div class="col-md-9">
                         <h4 class="text-subheading text-white my-2">Now Playing Movie</h4>
                         <div class="row my-3">
